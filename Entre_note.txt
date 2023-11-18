@@ -13,16 +13,16 @@ ________________________________________________________________________________
              through an identified sponsor.To advertise merley means to inform persuade or remind
              the potential as well as the ultimate customer for the purpose of selling the company's 
              goods or services.
-             uses Pull strategy - directly to the public & cheap product
-             Informative ads
-             Pursuasive ads -  
-             Reminding ads
+             uses Pull strategy - directly to the public & cheap product(Pulling customers towards the product by making them desire it and buy)
+             Informative ads-
+             Pursuasive ads -used mostly by beginner businesses like SAFARICOM  
+             Reminding ads-telling customers that "we stil exist in the market" and it is mostly low-cost ad (like on the door of cars...)
             b.Personal selling: a face to face interaction with ultimate as well as potential customer 
              for the purpose of selling the company's goods or services.
              The circumstances to use personal selling is: 
               1.If the unit value is high
               2.If strategy is push pricing
-              3.pricing is negotiable
+              3.pricing strategy is negotiable
               4.Buyer info req is high
               5.Degree of customization is high
               6.Product is technical in nature
@@ -32,6 +32,10 @@ ________________________________________________________________________________
              e.g. sweepstakes, buy one get one free
             d.Public relation: A variety of progra designed to build or promote the company's image
              Activities are: lobbying,civic activities,product publicity,photogrph,magazine
+		lobbying:safeguarding the image of the company against any allegation.
+		civic activities-spending part of your money to the society
+		photographs-showing where you were in comparision with the present
+	
             e.Direct marketing: use of ptelecommunication to directly solicit an order from a designeted
              group of buyers types include- telemarketing, catalog retailing,pricelist, kiosk marketing,
              automotive vending, ecommerce. Most selective of all other medias
@@ -52,7 +56,7 @@ ________________________________________________________________________________
   1.managment skill:The art of getting things done through other people
     : The process of planning,staffing, organizing,leading and controlling the organization's activities
      to acheve organixational goals
-    : Control of resources,input process and otput
+    : Control of resources,input process and otput(these are involved in planning input->process->output)
     Input -7m's: Money
                  Men
                  Machiene
@@ -63,12 +67,12 @@ ________________________________________________________________________________
     Output: Goods, services and ideas
     Plannig: deciding in advance what objective to pursue during the future time period. 3types:
       a.Use based: 
-                   Vision:A type of plan that dictate where the company intended to be in specific time period
+                   Vision:A type of plan that dictate where the company intended to be in specific time period(e.g-to become in the top 10 universities in the year 2025)
                    mission:A statement of writing that dictate the boundaries of the company's operation 
                            : the company sets its social as well as economic objective
                            e.g. To provide goods and services thereby making it available at affordable price 
                             to increase the living standard of the society
-                   objective:A detailed outcome. It is an end result where other factors of management entail
+                   objective:A detailed/desired outcome. It is an end result where other factors of management entailed
                     : while setting an objective one has to follow the SMART principle
                      Specicfic, Measurable, Attainable, Realistic and Time bound : e.g. 3 stone cutters
                    policy:A type of plan that guides for decision making.
@@ -78,38 +82,38 @@ ________________________________________________________________________________
                    strategy:A bound course of action plan used to meet an objective
                     e.g. Intensify our promotional effort to domestic as well as international market
                    program: A complex of other plan where activities intended to be carried out in schedule
-                   Rule: Type of plan that ... non actions that leaves no discretion e.g. no smoking
-                   budjet: numbered plan where activities are put in the form of a number
+                   Rule: Type of plan that states actions & non actions that leaves no discretion e.g. no smoking
+                   budget: numbered plan where activities are put in the form of a number
       b.Time based: Long term: - 25 yrs
                     Mid term: 5 yrs
                     Operational:1yr
-      Leading: Channeling the human behavior towrds the attainment of the common goal 
-      Communcation: Greek(Communicate) meaning sharing of information in common 
+      Leading: Channeling the human behavior towrds the attainment of the common goal.The elements of leading are communication,motivation and leadership. 
+      Communcation: Greek(Communicare) meaning sharing of information in common 
        A means by which people are linked in an organization 
        Vertical- upward(complain) and downward(coach)  e.g. general manager talks to the branch manager
        Diagonal  
-       Horizontal
-       Informal communcation line is called gossip line (diagonal and horizontal ...)
-      Motivation: Derives from greek word meaning to move
-       need a state of felt deprivation for ... satisfaction that arises out of physiological or psychological 
-       imbalaces
-       Drive/Motive: inner feeling that derive a person to act 
+       Horizontal(lateral)
+       Informal communcation line is called gossip line (diagonal and horizontal ...) e.g- having lunch b/n the general manager and ordinary employee
+      Motivation: Derives from greek word Moviere meaning to move
+       need a state of felt deprivation for basic satisfaction that arises out of physiological or psychological 
+       imbalances
+       Drive/Motive: inner feeling that derive/stimulate a person to act 
        Goal:Desired outcome
        behavioral & ... ,Economic and self actualizaion, Rational & Emotional,Internal and external
        Carrot and Stick motivation- punishment and Prise 
-      Leadership:The ability of a person to have followers without the use of force
+      Leadership:The ability of a person to have followers without the use of force(coercion).(Their action inspire us to follow)
        Autocratic:The leaders who get the job done by using power against thier subbordinate
         Communication pattern is purely downward
-       Democratic:Who allow thier subbordinate to participate in decision making process round table
-       Lezziefare: Free reign leaders who have no confidence in themselves and pass entire descision making 
-        process 
+       Democratic:Who allow thier subbordinate to participate in decision making process.They believe in round table disucssion.
+       laissez-faire: Free reign leaders who have no confidence in themselves and pass entire descision making 
+        process to subordinates.
   Project Management skill 
    Project - a type of plan which has a timespan
    Time management skill 
     Time: a resource which is irreplaceable and once it is gone it is gone forever
    Delegation: The art of managment
     According to Lewis A ... once a persons job goes beyound his personal capacity his ability lies in
-     multilpying himself through delegation. How well he delegates determines how well he manages 
+     multilpying himself through downward delegation. How well he delegates determines how well he manages 
    Negotiation:Will determine how good you are in convincing your client.It is a sign to determine how
     good you are in communication and interpersonal skill 
    Competence: one of the competence the enterpreneur has is efficiency
@@ -121,8 +125,8 @@ ________________________________________________________________________________
    see and act on opportunity: an area of buyer needs where the company profits.
    Problem Solving: must be based on data
     problem: anything over and under the planned activities that makes us ask why
-   Initiation: to want to do ...
-   Concern for work: Comitted to work contract and deadline
+   Initiation: to want to do ...[making the first move]
+   Concerned for work: Comitted to work contract and deadline
    Information Seeking: vital for success or ... 
    Pursuasion ...
    Systematic Planning : what and how to do it ...
@@ -134,33 +138,35 @@ ________________________________________________________________________________
                        : Backward(suppliers) and forward(distribution) linkage
  Types of entrepreneurs:
   Based on nature of the business
-   : Social - alleviate social problem
-   : Trading - agricultural and industrial
+   : Social - alleviate social problem,not making profit to benefit society
+   : Trading -involved in trade
+   : Agricultural-
+   : Industrial-
    : Corporate - working for others aka Intrapreneur
    : Opportunistic - using opportunity e.g. Producing soilder rations in war
-  Based on technical
-   : technical
-   : non technical
-   : Professional
+  Based on technology
+   : technical- have some technical knowledge
+   : non technical-not using their major area of study to create a business.Like Purpose Black founder Dr....
+   : Professional-following one's area of study
   Based on motivation
-   : Pure - for fulliment
-   : Induced- by policy ...
-   : Motivated- Internal satisfaction 
-   : Spontaneous- ...
-  Dan... 
-   : Innovative- invent
+   : Pure - for fulliment and personal satisfaction
+   : Induced- by policy of the government
+   : Motivated- Internal satisfaction [self fulfillment]
+   : Spontaneous- have natural or inborn talent Ex-Microsoft founder
+  Danhoff's
+   : Innovative- invention + commercial application 
    : Imitative- 
    : Fabian- scheptical
   Other ... 
-   : Novice- new
-   : Habitual - ...
-   : Nasent - ...
-   : Serial - cose and open businesses
+   : Novice- new(no prior business experience)
+   : Habitual - has prior business experience
+   : Nasent - in the process of starting a business can be novice/habitual
+   : Serial - close and open new businesses
   Development stage 
    : 1st gen- technical
-   : Clasical- run as a self support 
-   : modern- cope up with change
-   : Drone- Takes little risk ...
+   : Clasical- run as a self supporting venture
+   : modern- cope up with changing technology and demand
+   : Drone- Takes little risk ...&skeptical about the opportunity
 
 ________________________________________________________________________________________________________________________
   3 dots - i do not have notes for that part or not sure
