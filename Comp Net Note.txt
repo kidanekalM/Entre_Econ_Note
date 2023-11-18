@@ -1,0 +1,369 @@
+Chapter 1 ______________________Introduction to Computer Network_____________________________
+ We study networking - connectivity,carrer,security,
+  Troubleshooting
+ telecommunication - communication at a distance
+ Effective Data communication
+  - Delivery - Delivered at correct address
+  - Accuracy - No change in data while being transmitted
+  - Timelness - Data be delivered in a resonable time 
+ Simplified Communication Model
+  - Source - Generates data 
+  - Transmitter - changes data to signals
+  - Transmission medium - Carries data 
+  - Reciever - Changes signal to data
+  - Destination - consumes data 
+ Data commmunication system components
+  - Message
+  - Sender
+  - Reciever
+  - Medium 
+  - Protocol
+ Commuication Tasks
+  - Transmission System Utilization - efficient use of transmission facilities
+  - Signal generation - 
+  - Error Detection and correction 
+  -  Addressing and routing 
+  - Flow control 
+  - Message formatting 
+  - Security - Authenication and message integrity
+ Categorizing Communication Tech 
+  - Data communication = signal transmission on single link
+  - Networks - Communication across set of links
+ Data Communication 
+  - Transmission Line - Link b/n Transmitter and Reciever
+  - Transmission media 
+  - Communication Techniques - how to encode data to signal
+  - Transmission efficiency
+ Networks
+  - Demand for user to communicate with any other user
+  - Requires - Communication software
+             - Communication Network technolgies
+  - WAN - large geographical area
+        - Multiple companies e.g. ATM
+  - LAN - Small coverage building or campus
+ Internet 
+  - Collection of networks cennected using common software IP
+ Intro to Networking - Commuication
+  - old paradigm - Single powerful comp - sneaker net 
+  - New Paradigm 
+   - Computer networks - an interconnected collection of 
+     autonomous computers
+  - Network categories
+    - PAN - wireless ntwk - 1msq
+    - LAN - single office/bldg  - 10msq - 1kmsq
+    - MAN - Over a city -  10kmsq
+    - WAN - large geo area -  100kmsq - 1,000knsq
+ Network architecture - type of network and how resources
+  - Peer to Peer
+   - Pros - Easy , Less expensive 
+   - Cons -  performance & security 
+  - Client Server
+   - Pros - sharing resources, security, large number of user
+   - cons - More complex, Expensive
+   - servers - file, print, application, Mail, Fax, Directory
+ Network Topology - the way in which Multiple devices are conn
+  - Physical - Arrangement of phy devices
+  - Logical - Bound to network Protocols
+  - Choice of topology affects 
+   - Types of equipment
+   - growth of the network
+   - the way the network is managed
+  - 4 basic - Mesh, Star, Bus, Ring
+  
+  - Bus - Multipoint
+   - Adv - ease of installation and less cable < star/ mesh
+   - dis - signal reflection cause degraded quality
+         - difficult reconnection 
+         - Fault in bus cable stops all transmission
+  - Star - every device conn to central 
+   - Adv - Link faliure has no effect on others
+         -  Less expensive than Mesh
+   - Dis - Single point of faliure 
+         - Requires more cable than bus 
+         - More exp than bus
+  - Ring - point to point only to two devices uses repeater
+    - adv - Equal access for all user 
+          - Workstations has full access spped to the ring 
+    - dis - Costly wiring
+          - difficult connections
+          - Expesive adapter cards
+  - Mesh - each device si connected to every other
+   - Adv - no traffic, robust, privacy, fault id/isolation
+   - dis - amount of cabling and io ports
+  - Hybrid - a combination of two network topologes
+  - Interneworking - interconnection b/n networks - Internet
+   - Intranet - under single authority
+   - Internet - World wide intercnnection
+   - extranet - Intranet with limited connections to outside
+ Mode of Transmission
+  - Simplex - unidirectional aka broadcast
+  - Half-duplex - bidirectional - but not synchronious talkie
+  - Full-duplex - Transmit and recieve at same time
+ Transmission media - carries signal 
+  - Quantity of data per time is measured in bandwidth
+  - in digital circuits badwidth is bits per sec(bps)
+   - Guided - through a cable in a specific path
+   - unguided - dispersed through the medium - radio
+ Types of connection 
+  - point to point - dedicated link
+  - Multipoint - multipe dev share a single link
+  - Direct link - no intermediate devices 
+  - Indirect link - Switched communication network 
+
+
+Chapter 2____________________Protocols Standards and Architectures___________________________
+ Protocol - Set of rules that two (or more) peer entities obey in
+             order to communicate
+ Protocol Architecture needed b/c data communication is complex
+ Layers - Each layer has specific protocols designed and implemented 
+  - Adv - Simplify design and implementation 
+        - change protocols without changing the whole system
+        - can be implemented by different vendors
+  - Dis - Sub obtimal design
+       - Overhead for each layer
+ Layers and devices
+  - Layer 1 - Modem, Repeater, amplifier
+  - Layer 2 - Switches, wifi access points
+  - Layer 3 - Router
+ Layers
+  Physical l1 - How bits are sent through medium, signaling
+              - Twisted pair,optical fiber
+  Data Link l2 - Transmission of data over link MAC, Hardware
+                 Network Access
+                 - Ethernet 
+  Network l3 - Allows host to communicate Routing, IP, Internet
+             - IP ICMP, OSPF
+  Transport l4 - Connect processes on OS of host 
+                 Error cont,flow control,congestion
+                 - TCP, UDP, SCTP
+  Application - Provides finctionality for varius apps
+              - HTTP,FTP, SMTP, SSH
+ Common Features of protocols
+  - Headers are added to carry control information=encapsulation
+    - e.g. source,dest
+  - Segmentation - divide into chunks
+ Origins - ARPANET - US DoD
+  - Internet Architecture Board and Internet Engineering Tasks
+    Force (IETF) - standardise protocols
+  - OSI seven layer architecure is less used than TCP/IP
+ Basic steps of message sending
+  - Segmentation - break data into smaller packets
+  - Header - Add addressing information 
+  - Deliver data to network card
+ Key elements of a protocol
+  - Syntax - Structure or format of data
+  - semantics - meaning of each section 
+  - Timing - when data sould be sent 
+ Characterstix of a protocol are
+  - Direct/ Indirect - intermediate exists or not b/n hosts
+  - Monolithic/Structured - one single protocol or many
+  - Symmetric/assymetric - peer ot peer vs client server
+  - standard/nonstandard - specific custom use vs mass use
+   - K src L dest = K*L protocols and 2*K*L implementations
+ Functions of protocols
+  - Encapsulation - inclusion of control information
+   - Three types of control information
+    - address - sender and Reciever
+    - Error detecting code 
+    - protocol control - protocol Functions
+  - Segmentation and reassembly
+   - Break data up into smaller size
+   - adv - communication network maximum size 
+    - error control may be more efficient
+    - more equitable access to shared transmission media
+   - dis - all frames must contain control info - Overhead
+    - frame arrivals may generate an interrupt
+    - more time is spent processing numerious frames
+  - Connection control
+   - Connectionless services - packets are sent and no ack
+    - e.g. UDP
+   - Connection oriented - logical association is established
+    - long sustained session
+    - orderly and timely delivery of packets
+    - Contains three phases
+     - Connection establishement
+     - data transfer
+     - connection termination
+    - Each side sequentially numbers the frames sent
+    - each side can keep track of incomming and outgoing frame
+    - sequencing has 3 main functions
+     - Ordered Delivery - may not arrive in order of sending
+     - Flow control - Reciever controls how many incomming
+      frames it can allow before sending 
+     - Error control - error detection and retransmission
+    - e.g. TCP
+  - Addressing 
+   - each end system and intermediate system has address
+  - Multiplexing
+   - when multiple connections use single connection
+  - Transmission Services
+   - variety of additional serv e.g. Priority, security
+   - Stack/Suite - layer of protocols 
+ TCP/IP protocol Suite
+  Application/Process Layer
+   - User protocols provide service dirctly to users FTP,SMTP
+    -  Telnet - 23 - connect to a server allow direct terminal acs
+    - FTP - 20/21 - File transfer
+    - Simple Mail Transfer Protocol - 25 - mail Delivery
+    - POP3 - 110 - recieve email
+    - DNS - 53
+    - TFTP - 69
+    - HTTPs - 443
+    - HTTP - 80
+    - Dynamic Host Config Prtcl - 67/68 - gives IP addresses
+    - Simple Network Management Prtcl - manage network
+    - Network File Sys - allow two d.t file sys to interop - 
+  Transport Layer
+   - TCP - Takes large blocks and segments them
+    - Gives them sequencing number
+    - uses three way hand shaking
+   - UDP - does not sequence the segments - faster 
+         - uses checksum for error checking
+   - There are 65536 ports and 
+      -  0 upto 1023 - well known 
+      - 1024 upto 49151 - registered
+      - Dynamic or private ports - not assigned
+  Network - uses internet protocol
+   - ICMP - Management protocol and message service 
+    - Destination Unreachable,Buffer Full,Hops,Ping
+    ARP - address resolution protocol - finds MAC
+ Data link - is responsible for moving
+  frames from one hop (node) to the next.
+ Physical - is responsible for movements of
+   individual bits from one hop (node) to the next
+ OSI model- has Session layer and presentation layer
+  - session layer -  synchronization
+  - presentation - translation compression encryption
+
+Chapter 3_______________________Internet and Transport Protocols_____________________________
+ Internetworking
+  Connecting many different types of LAN nad WAN to achieve 
+  communication between hosts independet of thier network size
+  It is achieved through routers -
+  routers: are packet switches that operate at network level
+   - can act as source or Destination but mostly intermediate
+  IP is the Internetworking protocol
+  Features of IP are:
+   Datagram packet switching 
+   Network layer
+   Connectionless
+   Addressing
+   Fragmentation and reassembly
+  IP Datagram
+  - Header 20 byte might vary
+  IP Datagram Fields 
+   Version [4 bits]: version number of IP; current value is 4 (IPv4)
+   Header Length [4 bits]: length of header, measured in 4 byte words
+   DiffServ [6 bits]: Used for quality of service control
+   ECN [2 bits]: Used for notifying nodes about congestion
+   Total Length [16 bits]: total length of the datagram, including
+    header, measured in bytes
+   Identification: sequence number for datagram
+   Flags: 2 bits are used for Fragmentation and Re-assembly, the
+     third bit is not used
+   Fragment Offset [13 bits]: See Fragmentation and Re-assembly
+   Time To Live [8 bits]: datagram lifetime
+    - how many routers a datagram should pass before discarded
+   Protocol [8 bits]: indicates the next higher layer protocol
+   Header Checksum [16 bits]: error-detecting code applied to header
+    only; recomputed at each router
+   Source Address [32 bits]: IP address of source host
+   Destination Address [32 bits]: IP address of destination host
+   Options: variable length fields to include options
+   Padding: used to ensure datagram is multiple of 4 bytes in length
+   Data: variable length of the data
+  IP routing - finding best path for datagram
+   - Routing Table - destination and next node address
+   - Routing protocols - find best path,clct status info, update table
+  IP Fragmentation and reassembly
+   Might fragment into smaller datagrams
+  IP Addresses 
+   IPV4 (32Bit)
+    Has network(subnet) and host portion
+    Subnet mask-Identify where the IP address is split classless/classful 
+     classless - 32 bit 1 indicate network part 0 indicate host
+   Special IP addresses
+    Network address - has host portion full of zero only subnet 
+    Directed broadcast address - has host portion full of 1s
+    Local broadcast address - has host portion full of 1s-id all hosts 
+    Loopback - identify current host aka localhost first 8 011111111
+    startup source address - identify current with no address
+   Obtaining an IP address 
+    Internet Assigned Numbers Authority:manages IP assignment
+    IANA delegates to regional and regions to nations
+    Dynamic Host Config Protocol- automatically assign IP addresses
+ Application layer protocols
+  HTTP,FTP,SMTP,SSH,Telnet
+  support protocols - DNS,DHCP/BOOTP,NTP
+ Transport layer protocols (TCP/UDP)
+ Internet Protocol and Addressing
+ Internet Applications
+  client/server mostly used internet app 
+  Transport Protocol - implement many methods common to all apps
+   Transmission control Protocol- most widely used
+    Stream oriented
+    Connection oriented
+    Full duplex
+    Flow and error control 
+    Conjestion control
+    TCP segment: has 20 byte header fields incude:
+     Source and Destination port number
+     sequence number of first data byte ISN
+     Acknkowledgement number
+     Header length
+     Window - number of bytes reciever is acceptiog
+     Checksum - error detection
+     Urgent Pointer
+     Options
+    Flags 
+     CWR congestion Window reduced
+     EcE explicit congestion notification echo
+     URG - segment carries urgent data
+     ACK - segment carries Acknkowledgement
+     SYN - synchronize
+     FIN - no more data to send
+     RST - Rest the connection
+    Three way handshake
+     -   A                       B
+         |                       |
+         |---------SYN---------->| 
+         |                       |
+         |<-------SYN/ACK--------| ACK=ISNA+1 SYN=ISNB
+         |                       |
+         |---------SYN/ACK------>| can carry data
+         |                       |
+    Speed of Data Transfer Depends on
+     Flow control
+     Error control
+     congestion control
+   Protocol number - identify Transport protocol used by both hosts
+    e.g. 6-TCP
+  Five addresses uniquely identify end-to-end communications
+   1. Source IP
+   2. Destination IP
+   3. Protocol number
+   4. Source port
+   5. Destination port
+  Port Numbers - 16 bit numbers - identify specific app 
+   well known ports 0 - 1023 registered 1024 - 49151 Dynamic -65535
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
