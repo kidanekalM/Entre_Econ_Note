@@ -1,0 +1,374 @@
+Chapter One
+Basics of Economics     
+    # Definition of economics
+        "There is no universally accepted definition of economics, because different economists defined economics 
+         from different perspectives."
+         "Economics is a social science which studies about efficient allocation of scarce resources so as to attain 
+          the maximum fulfillment of unlimited human needs."
+         "economics is a science of choice, it studies how people choose to use scarce or limited productive resources
+          to produce something"
+        Key points
+         * Study about scarce resources
+         * Study about allocation of resources;
+         * Allocation should be efficient;
+         * Human needs are unlimited
+         * Study how to satisfy the unlimited human needs 
+
+    # The rationales of economics
+        The two fundamental facts 
+            * Human ("society's") material wants are unlimited
+            * Economic resources are limited ("scarce").
+        - Study How we make choices to use the scarce resources ( Decision Making)
+        - Study How various choice s outcome based on Efficiency , Equity , Stability  
+
+
+    # Scope and method of analysis in economics
+        # Scope of economics
+            the core of modern economics is formed by its two major branches:             
+
+            "Microeconomics" 
+                 concerned with the economic behavior of individual decision making
+                 Studies "individual" economic units of an economy.
+                 Its central problem is "price determination" and "allocation of resources".
+                 Its main tools are the demand and supply of "particular" commodities and factors
+                 Concerned with how the "equilibrium" of "a consumer", "a producer" or "an industry" is attained
+
+            "Macroeconomics" 
+                 deals with the effects and consequences of the aggregate behaviour of all decision making 
+                 Studies an economy as a "whole" and its "aggregates"
+                 Its central problem is determination of "level of income" and "employment".
+                 Its main tools are "aggregate" demand and "aggregate" supply of an economy as a "whole"
+                 Concerned with the determination of "equilibrium" "levels of income" and "employment" at "aggregate level".
+        
+        #  Positive and normative analysis
+            The two perspectives of economics are :
+
+                "Positive Economics" 
+                    Concerned with analysis of facts and attempts describe the world as it is 
+                    It does not judge a system as good or bad, better or worse
+                "Normative Economics"
+                    Evaluates the desirability of alternative outcomes based on ones value judgments about what is good or what is bad 
+                    It is loaded with judgments 
+                    It is a matter of opinion Since What is good for one may not be the same for others
+                    Any disagreement can be solved by voting  
+
+        # Inductive & Deductive Reasoning in economics 
+            The two methods of logical reasoning :
+                
+                "Inductive reasoning" 
+                    A logical method of "reaching" at a "correct general statement" from several "independent" and "specific correct statements".
+                    Deriving theory by moving from "facts" to "theories" and from "particular" to "general" economic analysis. 
+                    It involves :
+                        1. Selecting problem for analysis
+                        2. Collection, classification, and analysis of data
+                        3. Establishing cause and effect relationship between economic phenomena.
+                "Deductive reasoning"
+                    A logical way of arriving at a particular or specific correct statement starting from a correct general statement.
+                    It involves :
+                        1. Problem identification
+                        2. Specification of the assumptions
+                        3. Formulating hypotheses
+                        4. Testing the validity of the hypotheses
+                    
+        # Scarcity, choice, opportunity cost and production possibilities frontier
+            The central purpose of economic activity :
+                - Production of goods and services to satisfy consumers needs and wants
+                - To meet peoples need for consumption both means of Survival & satisfy ever growing demand for improvised lifestyle
+
+            1."Scarcity" :
+                refers to all economic resources that are required to produce goods & services are finite or limited  
+                it reflect the imbalance of wants & the means to satisfy the wants 
+            
+                "Resources" 
+                    "Free resources" - available amount > the amount needed 
+                    "Scarce (economic) resources" - available amount < the amount needed  
+                        Land - natural resources & usable for the production of goods & service. # Reward : Rent
+                        Labour - efforts of human being for the production of goods & service. # Reward : Wage
+                        Capital - manufactured inputs for the production of goods & service # Reward : Interest
+                        Entrepreneurship - special type of human talent that help us organize the production of goods & service # Reward : Profit
+
+                "Shortage" is a specific and short term problem but "Scarcity" is a universal and everlasting problem
+            2."Choice" :
+                Since economic resources are scarce , we can not satisfy all our wants. Therefore "Choices must be made".
+                we are forced to make a choice on what to produce, in what quantity & what not to produce 
+                Scarcity implies Choice , & Choice implies Cost  
+                
+            3."Opportunity Cost" :
+                A decision to have more of one thing, at the same time, means a decision to have less of another thing , so 
+                "opportunity cost" is the amount or value of the next best alternative that must be sacrificed (forgone) in order to obtain 
+                one more unit of a product. 
+            4."The Production Possibilities Frontier or Curve (PPF/ PPC)" :
+                "(PPF/PPC)" -a curve that shows various possible combinations of goods and services that we can produce
+                    (PPF/PPC) describe 3 important concepts
+                        1. concept of scarcity 
+                        2. concept of choice 
+                        3. concept of opportunity cost
+
+                    Opportunity_cost = |Change in sacrificed good / Change in the gained good|
+
+            5."Economic Growth and the PPF" 
+                - Economic growth is represented by outward shift of the PPF 
+                - A shift of the PPF along the Y- axis or X-axis is called "asymmetric growth"  
+
+
+            Scarcity → limited resource → limited output → unable to satisfy all our wants → choice involves costs → opportunity cost
+
+    # Basic economic questions / Central economic problems
+        "What to produce"?
+            problem of allocation of resources
+            decide which good to produce & in what quantities   
+        "How to produce"?
+            problem of choice of technique
+                labour-intensive techniques 
+                    the use of more labour relative to capital, per unit of output
+                capital-intensive techniques
+                    the use of more capital relative to labour, per unit of output
+        "For whom to produce"?
+            problem of distribution of national product
+            relates to how a material product is to be distributed among the members of a society    
+
+    # Economic systems
+        is a set of organizational and institutional arrangements established to answer the basic economic questions
+        
+        # Capitalist economy
+            * the oldest economic system 
+            * all production are privately owned , takes place by individual private Entrepreneurs who works for private Profit
+            - government intervention is minimal
+            Features of Capitalist Economy
+                - "The right to private property"
+                - "Freedom of choice by consumers"
+                - "Profit motive"
+                - "Competition"
+                - "Price mechanism"
+                - "Minor role of government"
+                - "Self-interest"
+                - "Inequalities of income"
+                - "Existence of negative externalities"
+            Advantage of Capitalist economy
+                - "Flexibility or adaptability"
+                - "Decentralization of economic power"
+                - "New types of consumer goods"
+                - "Growth of entrepreneurship"
+                - "Optimum utilization of productive resource"
+            Disadvantages of Capitalist economy
+                - "Inequality of income"
+                - "Unbalanced economic activity"
+                - "Exploitation of Labor"
+                - "Negative externalities"
+
+        # Command economy
+            - socialistic economy 
+            - The economic institutions that are engaged in production and distribution are owned and controlled by the state
+            Features of Command Economy
+                - "Collective ownership"
+                - "Central economic planning"
+                - "Strong government role"
+                - "Maximum social welfare"
+                - "Relative equality of incomes"
+            Advantage of Command economy
+                - "Absence of wasteful competition"
+                - "Balanced economic growth"
+                - "Elimination of private monopolies and inequalities"
+            Disadvantages of Command economy
+                - "Absence of automatic price determination"
+                - "Absence of incentives for hard work and efficiency"
+                - "Lack of economic freedom"
+                - "Red-tapism"
+
+        # Mixed economy
+            is an attempt to combine the advantages of both the capitalistic economy and the command economy
+            Features of Mixed Economy
+                - "Co-existence of public and private sectors"
+                - "Economic welfare"
+                - "Economic planning"
+                - "price mechanism"
+                - "Economic equality"
+            Advantages of Mixed Economy
+                - "Private property, price mechanism, profit motive"
+                - "Adequate freedom"
+                - "Rapid and planned economic development"
+                - "Social welfare & fewer economic inequalities"
+            Disadvantages of Mixed Economy
+                - "Ineffectiveness and inefficiency"
+                - "Economic fluctuations"
+                - "Corruption and black market"
+
+    # Decision making units and the circular flow model
+        * The three decision making units in a closed economy or Economic agents
+          closed economic : if a country does not have economic interaction with other countries
+            1.(Household)
+                "A household can be one person or more who live under one roof and make joint financial decisions"
+                    a= Selling of their resources, and
+                    b= Buying of goods and services
+            2.(Firm)
+                "A firm is a business organization that uses economic resources to produce goods and services"
+                    a= Buying of economic resources
+                    b= Selling of their products.
+            3.(Government)
+                "A government is an organization that has legal and political power to control or influence households, firms and markets.
+                They also provides some types of goods and services known as public goods and services for the society."
+
+        * These 3 agents interact in two markets
+            - Product Market
+                * It is a market where goods and services are transacted/ exchanged
+                * Households and governments buy goods and services from business firms.
+            - Formal Market (input Market)
+                * owners of resources (households) sell their resources to business firms and governments.
+        
+                * The (circular flow-diagram) is a visual model of the economy that shows how money (Birr), economic resources and 
+                  goods and services flows through markets among the decision making units.  
+
+                * Read about Two sector model & Three sector model or check here 
+                    (https://youtu.be/5ro23-HjzPE) 
+
+End of Chapter One
+
+Chapter Two
+Theory of Demand and Supply
+    # Theory of demand
+        - Demand, means the desire of the consumer for a commodity backed by purchasing power.
+        The two essensial factors are 
+            * a consumer is willing to buy but is not able to pay, his/ her desire wont be demand
+            * consumer has the ability to pay but is not willing to pay, his/ her ability to pay wont be demand
+        'Law of Demand'
+            price of a commodity and its quantity demanded are inversely related 
+            when price rise the demand for that commodity will decrease
+
+        # Demand schedule (table), demand curve and demand function
+            [Demand Schedule] 
+                - If the list of prices and quantities purchased at those prices are known. 
+                - It states the relationship between price and quantity demanded in a table form.
+            [Demand Curve]
+                - 'Demand curve is a graphical representation of the r/ship b/n d/t quantities of a commodity demanded by an individual
+                  - at different prices per time period.
+            [Demand Function]
+                - is a mathematical r/ship b/n price and quantity demanded, all other things remaining the same.
+                    Qd=f(P) where Qd = quantity demanded & P = price of the commodity
+
+                    Qd = a + bP , b = slope  /this_will_be_the_demand_function
+
+                    b = AQ / AP  Change in demand / Change in Price 
+            [Market Demand] 
+                - The market demand schedule, curve or function is derived by horizontally adding the quantity demanded for the product 
+                   - by all buyers at each price
+                    Q = a + bP , ==>  demand_function = Q * Qm (Total No. demands) 
+
+        # Determinants of demand
+            - It is influenced by many factors like
+                1. 'Price of the product'
+                        when price increase(decrease) , demand decrease(increase)
+                2. 'Taste or preference of consumers'
+                        When the taste of a consumer changes in favour of a good, her/his demand will increase and
+                        the opposite is true
+                3. 'Income of the consumers'
+                        <Normal Goods> are goods whose demand increases as income increase, while 
+                        <inferior goods> are those whose demand is inversely related with income
+                4. 'Price of related goods'
+                        <Substitute goods> are goods which satisfy the same desire of the consumer.
+                            eg. tea & coffee , pepsi & coca 
+                        <Complimentary goods> are those goods which are jointly consumed.          
+                            eg. car & fuel , tea & sugar                   
+                5. 'Consumer expectation of income and price'
+                        Higher price expectation will increase demand while a lower future price expectation will
+                        decrease the demand for the good
+                6. 'Number of buyer in the market'
+                        Since market demand is the horizontal sum of individual demand, an increase in the number of buyers 
+                        will increase demand while a decrease in the number of buyers will decrease demand.
+
+                [Changes in demand]: a change in any determinant of demand—except for the goods price causes the demand curve to shift.
+                        [ 2 - 6 ] are called demand shifters 
+
+
+        # Elasticity of demand
+            - Elasticity is a measure of responsiveness of a dependent variable to changes in an independent variable
+            -'Elasticity of demand' 
+                * refers to the degree of responsiveness of quantity demanded of a good to a change in its price, or change 
+                  in income, or change in prices of related goods. 
+                * is unit free because it is a ratio of percentage change
+                * is usually a negative number because of the law of demand
+                * If the price elasticity of demand is positive the product is 'inferior'
+
+                1. <Price elasticity of demand>
+                    * degree of responsiveness of demand of consumers to change in price.
+                    * If |E| < 1, demand is inelastic and the product is necessity
+                    * If |E| > 1, demand is said to be elastic and the product is luxury product
+                    * If |E| = 1, demand is unitary elastic 
+                    * If |E| = 0, demand is said to be perfectly inelastic
+
+                      <a> 'Point Price Elasticity of Demand'
+                      <b> 'Arc price elasticity of demand'
+                    
+                      [ Visit the module for the formulas]
+                    
+                      #Determinants of Price elasticity
+                        1. The availability of substitutes:
+                        2. Time:
+                        3. The proportion of income consumers spend for a product:
+                        4. The importance of the commodity in the consumers’ budget:
+
+                2. <Income elasticity of demand>
+                    * responsiveness of demand to change in income 
+                    * If |Eid| < 1,(positive) the good is necessity good
+                    * If |Eid| < 0,(negative) the good is inferior good
+                    * If |Eid| > 1, the product is luxury product
+
+                    [ Visit the module for the formulas]>
+                    
+
+                3. <Cross-price elasticity of demand>
+                    * Measures how much the demand for a product is affected by a change in price of another good.
+                    * If |Exy| is (positive) the good is substitute good
+                    * If |Exy| is (negative) the good is Complimentary good
+                    * If |Exy| is (zero) the good is unrelated good                                                            
+
+
+    # Theory of supply
+        - Supply, refers to the quantity of a good or service that producers are willing and able to 
+            - offer for sale at various prices during a given period. 
+        'Law of Supply'    
+            as price of a product increase, quantity supplied of the product increases, 
+            and as price decreases, quantity supplied decreases
+             
+        # Supply schedule, supply curve and supply function
+            [Supply schedule]
+              - tabular statement that states the different quantities of a commodity offered for sale at different prices
+            [Supply curve]
+              - same as Supply schedule but it shows the information graphically rather than in a tabular form. 
+            [Supply Function]
+                Qs=f(P) where Qs = quantity supplied & P = price of the commodity
+                Qs = a + bP , b = slope  /this_will_be_the_supply_function
+
+            [Market Supply]
+              -  curve or function is derived by horizontally adding the quantity supplied for the product by all sellers 
+               - at each price
+
+        # Determinants of supply
+            - It is influenced by many factors like
+                1. Price of inputs ( cost of inputs) :
+                2. Technology :
+                3. Prices of related goods :
+                4. Sellers expectation of price of the product :
+                5. taxes & subsidies :
+                6. number of sellers in the market :
+                7. weather, etc.
+
+
+        # Elasticity of supply
+            -'Elasticity of supply' 
+                - It is the degree of responsiveness of the supply to change in price
+                    1. <Price elasticity of supply>
+                        * It can be elastic, inelastic, unitary elastic, perfectly elastic or perfectly inelastic
+                            [Chech the module or the pdf for their formulas]
+                    1. <Arc elasticity of supply>
+                            [Chech the module or the pdf for their formulas]
+                    
+                    * |Es| < 1 , inelastic 
+                    * |Es| > 1 , Elastic
+                    * |Es| = 1 , Unitary elastic
+
+    # Market equilibrium
+
+End of Chapter Two    
+
+Change in plan 
+
