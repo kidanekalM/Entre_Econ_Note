@@ -1,6 +1,6 @@
 Chapter 1 Entrepreneur and Entrepreneurship
 ___________________________________________________________________________________________
-
+ Entrepreneurship: Entrepreneurship is a dynamic process of vision, changes and creation ( integrated definition)
  Entrepreneur: a person who manage organize and assume risk of a business enterprise
              : is a creative distractor
              : is a catalyst for change
@@ -75,7 +75,7 @@ ________________________________________________________________________________
                    objective:A detailed/desired outcome. It is an end result where other factors of management entailed
                     : while setting an objective one has to follow the SMART principle
                      Specicfic, Measurable, Attainable, Realistic and Time bound : e.g. 3 stone cutters
-                   policy:A type of plan that guides for decision making.
+                   policy:A broad course type of plan that guides for decision making.
                     e.g. If two candidates secure equal marks priority is for female candidate.
                    procedure: A type of plan that guides to action 
                     e.g. One has to fill requsition form to get materials from the store
@@ -140,8 +140,8 @@ ________________________________________________________________________________
   Based on nature of the business
    : Social - alleviate social problem,not making profit to benefit society
    : Trading -involved in trade
-   : Agricultural-
-   : Industrial-
+   : Agricultural- Mechanization irrigation and other activities for dry land agricultural production
+   : Industrial- manufacturing what the users might need
    : Corporate - working for others aka Intrapreneur
    : Opportunistic - using opportunity e.g. Producing soilder rations in war
   Based on technology
