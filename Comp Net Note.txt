@@ -5,7 +5,7 @@ Chapter 1 ______________________Introduction to Computer Network________________
  Effective Data communication
   - Delivery - Delivered at correct address
   - Accuracy - No change in data while being transmitted
-  - Timelness - Data be delivered in a resonable time 
+  - Timeliness - Data be delivered in a resonable time 
  Simplified Communication Model
   - Source - Generates data 
   - Transmitter - changes data to signals
@@ -202,7 +202,7 @@ Chapter 2____________________Protocols Standards and Architectures______________
  TCP/IP protocol Suite
   Application/Process Layer
    - User protocols provide service dirctly to users FTP,SMTP
-    -  Telnet - 23 - connect to a server allow direct terminal acs
+    - Telnet - 23 - connect to a server allow direct terminal acs
     - FTP - 20/21 - File transfer
     - Simple Mail Transfer Protocol - 25 - mail Delivery
     - POP3 - 110 - recieve email
@@ -283,9 +283,9 @@ Chapter 3_______________________Internet and Transport Protocols________________
     Subnet mask-Identify where the IP address is split classless/classful 
      classless - 32 bit 1 indicate network part 0 indicate host
    Special IP addresses
-    Network address - has host portion full of zero only subnet 
-    Directed broadcast address - has host portion full of 1s
-    Local broadcast address - has host portion full of 1s-id all hosts 
+    Network address - has host portion full of zero only subnet  e.g. 192.168.0.0
+    Directed broadcast address - has host portion full of 1s     e.g. 192.168.255.255
+    Local broadcast address - has ALL BITS full of 1s-id all hosts e.g. 255.255.255.255
     Loopback - identify current host aka localhost first 8 011111111
     startup source address - identify current with no address
    Obtaining an IP address 
@@ -344,7 +344,7 @@ Chapter 3_______________________Internet and Transport Protocols________________
    3. Protocol number
    4. Source port
    5. Destination port
-  Port Numbers - 16 bit numbers - identify specific app 
+  Port Numbers - 16 bit numbers - identify specific protocol 
    well known ports 0 - 1023 registered 1024 - 49151 Dynamic -65535
 
     
