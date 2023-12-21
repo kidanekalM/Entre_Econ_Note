@@ -237,16 +237,44 @@ Components of a business plan
          : indicator for the gov to set favourable or unfavourable inmport export trade policy 
       6 Inflation: The rise in product price without a considerable rise in the income of the population. 
                  : indicator for social unrest 
-      7 Tax ...
+      7 Tax rate
       8 Interest rate 
-      9 Business lifecycle 
-
-
-     Social
+      9 Business lifecycle Business passes through 4 distinctive stages Determine what type of strategy to apply
+        1 Recession: a period of cost retachment it is a situation where demand is less than supply
+        2 Depression: It is a period where the economic activities went down people prefer to save than spen 
+        3 Recovery: It is a period where business is recouperating itself from recession or depression 
+        4 Boom/Prosperity:It is a period for business growth where demand is greater than supply
+     Social & Cultural:Culture means a set of traditional beliefs and values that are transmitted and shared in a given 
+       society it is a total way of life generation. It influences
+       1 Our consumption pattern 
+       2 Our thinking process
+       3 our Commmunication
+       Monochronic:Low context the message shall be explicitly stated the communication pattern is direct & personal
+        e.g. usa, uk, germany
+       Polychronic:High context-an indepth into nation is required inorder to have a business deal. The communication pattern is 
+        impersonal and indirect e.g. china, japan, india
      Technological
-     Legal
-     Ethical
- - Company Description
+     Legal: Government sets rules and regulation inorder to harmonze the business activities and safeguard the socitial 
+      wellbeing. There are two types of legal system 
+      Common law(More flexible):The descision of the judge is based on the decision of the judge is based on the precidence
+       and controversion and not by the previous court or law. The legal system provide ample freedom for the judge to 
+       expertice while enforcing the ABC of the law e.g. USA and UK
+      State Law(Civil):Each incident which is legal or otherwise clearly and explicitly stated in the ABC of the law the 
+       Judge has no role other than rubber stamping the ABC of the law e.g. Italy 
+       The government relationship with industry is in the form of 
+        Tarrif: a tax imposed or a customs duty levied on a product crossing the customs boundry
+        Quota: The total amount of units that is allowed to be imported during specific time period 
+     Ethical:a moral obligation that the business has to follow. safeguarding the socitial wellbeing fair and transparent
+ - Company Description:Name of company service years vision and mission statement major milestome, partners(if any)
+ - Product Description:Types of the product beliefs of product additional services
+  Marketing mix: a set of marketing tools where the firm uses to pursue its marketing objectives in the target market
+   the elements of marketing system are products price place and promotion 
+   Product: Standardization, simplification, grading, branding, packaging, labeling,marketing, service, warranty and guarantee 
+   Price: Objectives, factors affecting price credit terms,payment terms, pricing methods
+    Pricing strategy, market penetration strategy, both can br rapid or slow
+   Place: channels of distribution nad physical distribution - convenience : no additional cost to buy the product
+   Promotional mix: advertising personal selling sales promotion, publication and direct marketing 
+      
  - Marketing plan
  - Production and Operation plan
  - Managment and Organization plan
